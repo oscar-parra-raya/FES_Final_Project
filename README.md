@@ -21,13 +21,13 @@ Primera versión base: utiliza mediciones simuladas. Todavía no realiza pruebas
 Desde la carpeta `SpeedCheck`, ejecutar:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Cómo ejecutar las pruebas
 
 ```bash
-python -m unittest discover -s tests
+python3 -m unittest discover -s tests
 ```
 
 ## Estructura
